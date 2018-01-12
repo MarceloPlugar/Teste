@@ -1,0 +1,10 @@
+/home/marcelo_silva/Área de Trabalho/teste csharp/bin/Debug/netcoreapp2.0/teste csharp.deps.json
+/home/marcelo_silva/Área de Trabalho/teste csharp/bin/Debug/netcoreapp2.0/teste csharp.runtimeconfig.json
+/home/marcelo_silva/Área de Trabalho/teste csharp/bin/Debug/netcoreapp2.0/teste csharp.runtimeconfig.dev.json
+/home/marcelo_silva/Área de Trabalho/teste csharp/bin/Debug/netcoreapp2.0/teste csharp.dll
+/home/marcelo_silva/Área de Trabalho/teste csharp/bin/Debug/netcoreapp2.0/teste csharp.pdb
+/home/marcelo_silva/Área de Trabalho/teste csharp/obj/Debug/netcoreapp2.0/teste csharp.csproj.CoreCompileInputs.cache
+/home/marcelo_silva/Área de Trabalho/teste csharp/obj/Debug/netcoreapp2.0/teste csharp.AssemblyInfoInputs.cache
+/home/marcelo_silva/Área de Trabalho/teste csharp/obj/Debug/netcoreapp2.0/teste csharp.AssemblyInfo.cs
+/home/marcelo_silva/Área de Trabalho/teste csharp/obj/Debug/netcoreapp2.0/teste csharp.dll
+/home/marcelo_silva/Área de Trabalho/teste csharp/obj/Debug/netcoreapp2.0/teste csharp.pdb
