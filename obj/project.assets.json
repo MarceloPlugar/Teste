@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/marcelo_silva/Área de Trabalho/teste csharp/teste csharp.csproj",
+      "projectUniqueName": "/home/marcelo_silva/Área de Trabalho/Testes GIT/Teste/teste csharp.csproj",
       "projectName": "teste csharp",
-      "projectPath": "/home/marcelo_silva/Área de Trabalho/teste csharp/teste csharp.csproj",
+      "projectPath": "/home/marcelo_silva/Área de Trabalho/Testes GIT/Teste/teste csharp.csproj",
       "packagesPath": "/home/marcelo_silva/.nuget/packages/",
-      "outputPath": "/home/marcelo_silva/Área de Trabalho/teste csharp/obj/",
+      "outputPath": "/home/marcelo_silva/Área de Trabalho/Testes GIT/Teste/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
@@ -686,6 +686,7 @@
         "netcoreapp2.0"
       ],
       "sources": {
+        "http://nuget.plugar.com.br/nuget": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -704,7 +705,7 @@
         "dependencies": {
           "Microsoft.NETCore.App": {
             "target": "Package",
-            "version": "2.0.0",
+            "version": "[2.0.0, )",
             "autoReferenced": true
           }
         },
